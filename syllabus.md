@@ -70,6 +70,10 @@ All other required class materials will be posted or linked to on the course Git
 
 For instructor and university policies relevant to this course, please see [this page](policies.md).
 
+## Artificial Intelligence (AI)
+
+I absolutely expect that you will use AI tools in this course. In fact, it is essential as graduates of the Information Science program that you have experienced with AI tools, as well as a sophisticated, nuanced, and thoughtful approach to their use, non-use, and the ethical implications of their use. Hiring managers also expect that you will have experience with AI tools, and that you will be able to use them effectively in your work. We will discuss their use as the course progresses, and I expect not only that they will play some role in your project, but that some major update or development will happen in the course of the semester that will require you to adapt your project and/or our class approach to those new developments. I have developed AI tools, I use generative AI almost daily, and I have given presentations and led workshops on the ethical use of AI in information science and in education. If you have any questions about their utility, safety, or ethical implications, or if you just want to shoot the breeze about new, exciting, and or scarp developments in the field, let's talk!
+
 ## About this syllabus ##
 
 This syllabus is a *summary of course objectives and content* and a reminder of *some* relevant university policies, not a contract. *All information in this syllabus (except for the official *course description*) is subject to change, with sufficient advanced notice provided by the instructor.*
