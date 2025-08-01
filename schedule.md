@@ -174,7 +174,7 @@ NO CLASS???
 
 <br/>
 
-## Week 12: Thursday, November 6
+## Week 12: Thursday, November 13
 
 ### Prep
 
@@ -186,7 +186,7 @@ NO CLASS???
 
 <br/>
 
-## Week 13: Thursday, November 6
+## Week 13: Thursday, November 20
 
 ### Prep
 
