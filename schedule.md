@@ -47,7 +47,13 @@ Please bring your laptop to class, as well as any ideas you may already have for
 
 #### Read/watch
 
-- TBA
+- Marc Andreesen, ["The Only Thing That Matters"](https://pmarchive.com/guide_to_startups_part4.html)
+- Rahul Vohra, ["How Superhuman Built an Engine to Find Product-Market Fit"](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- Lean Startup, ["A Playbook for Achieving Product Market Fit"](https://leanstartup.co/resources/articles/a-playbook-for-achieving-product-market-fit/")
+- Team Sequoia, ["Writing a Business Plan"](https://www.sequoiacap.com/article/writing-a-business-plan/)
+- Aaref Hilaly, ["How to Present to Investors"](https://articles.sequoiacap.com/how-to-present-to-investors)
+- Liz Wessel, ["Here’s What You Can Really Expect When Pitching Your Seed-Stage Startup at a VC Partner Meeting"](https://review.firstround.com/heres-what-you-can-really-expect-when-pitching-your-seed-stage-startup-at-a-vc-partner-meeting/)
+- The NFX Team, ["The Non-Obvious Guide to Fundraising"](https://www.nfx.com/post/the-non-obvious-guide-to-fundraising)
 
 
 ### In class
@@ -55,6 +61,7 @@ Please bring your laptop to class, as well as any ideas you may already have for
 - Market and competitive research
 - Product-Market Fit and Pivots
 - Bootstrapping and pitching investors
+- Guest presentation and Q&A with a startup founder
 - Team formation
 
 <br/>
