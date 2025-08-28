@@ -29,8 +29,8 @@ Please bring your laptop to class, as well as any ideas you may already have for
 - Steve Blank, ["Why the Lean Start-Up Changes Everything"](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything), _Harvard Business Review_  
 - Atlassian, ["What is a Minimal Viable Product (MVP)?"](https://www.atlassian.com/agile/product-management/minimum-viable-product)
 - Sara Paul, ["MVP: Why It Isn't Always Release 1"](https://www.nngroup.com/videos/mvp-isnt-release1/)
-- Steve Blank, ["An MVP is not a Cheaper Product, It's about Smart Learning"](https://steveblank.com/2013/01/27/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
-- Steve Blank, ["A Path to the Minimal Viable Product"](https://steveblank.com/2013/01/27/a-path-to-the-minimal-viable-product/)
+- Steve Blank, ["An MVP is not a Cheaper Product, It's about Smart Learning"](https://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
+- Steve Blank, ["A Path to the Minimal Viable Product"](https://steveblank.com/2021/04/20/the-secret-to-the-minimum-viable-product/)
 - N. Taylor Thompson, ["Building a Minimum Viable Product? You're Probably Doing it Wrong"](https://hbr.org/2013/09/building-a-minimum-viable-prod)
 
 ### In class
