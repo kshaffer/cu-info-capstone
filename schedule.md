@@ -72,14 +72,18 @@ Please bring your laptop to class, as well as any ideas you may already have for
 
 #### Read/watch
 
-- TBA
+- [Agile Project Management - What is it and how to get started?](https://www.atlassian.com/agile/project-management) - _Be sure to scroll past the "Read On Below" section. It looks like this is a super-short article with links, but the important content is after those link cards._
+- [Agile vs. waterfall project management](https://www.atlassian.com/agile/project-management/project-management-intro)
+- [What Is Scrum?](https://www.scrumalliance.org/about-scrum)
+- [A Beginner Developer's Guide to Kanban](https://www.freecodecamp.org/news/a-beginner-developers-guide-to-kanban/)
+- [Trello vs. Jira: Which project management tool is right for you?](https://zapier.com/blog/trello-vs-jira/)
+- [Learn Trello Board Basics](https://trello.com/guide/trello-101)
 
 
 ### In class
 
 - Agile project management
 - Project management systems
-- Git and GitHub
 - Project plans
 - Introducing course contracts
 
@@ -91,11 +95,13 @@ Please bring your laptop to class, as well as any ideas you may already have for
 
 #### Read/watch
 
-- TBA
+- [How to Use Git and GitHub – a Guide for Beginners and Experienced Developers](https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/)
+- [Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 
 ### In class
 
+- Git and GitHub
 - Locking in project plans
 - Final course contract drafts
 - Elevator pitches and class feedback
