@@ -61,7 +61,6 @@ Please bring your laptop to class, as well as any ideas you may already have for
 - Market and competitive research
 - Product-Market Fit and Pivots
 - Bootstrapping and pitching investors
-- Guest presentation and Q&A with a startup founder
 - Team formation
 
 <br/>
@@ -85,13 +84,18 @@ Please bring your laptop to class, as well as any ideas you may already have for
 - Agile project management
 - Project management systems
 - Project plans
-- Introducing course contracts
 
 <br/>
 
 ## Week 5: Thursday, September 18
 
 ### Prep
+
+#### Project work
+
+Concretely define your intended project deliverable. _This will likely change as you work on it_, but you should have a clear idea of what you intend to deliver. This can take the form of a paragraph, a set of bullet points, or a more elaborate product roadmap in an Agine project management tool. It should describe the overall deliverable, and the key components you have identified so far. For example, if your project is an analytics dashboard, you would describe the key features of the dashboard, and then identify core components such as a web scraper, a database, a backend API, and a frontend interface. If you have a sense of who in your group will be responsible for which components, include that as well.
+
+Submit the document, or a link to your online resource, via a Slack DM or group channel that includes me and all members of your group. 
 
 #### Read/watch
 
@@ -102,9 +106,8 @@ Please bring your laptop to class, as well as any ideas you may already have for
 ### In class
 
 - Git and GitHub
-- Locking in project plans
-- Final course contract drafts
-- Elevator pitches and class feedback
+- Guest presentation and Q&A with a startup founder
+- Introducing course contracts
 - Topic selections
 
 <br/>
@@ -119,6 +122,7 @@ Please bring your laptop to class, as well as any ideas you may already have for
 - Team standup
 - Class standup
 - TBA
+- Final course contract drafts
 - Project work time
 
 
