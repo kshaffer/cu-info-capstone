@@ -116,6 +116,11 @@ Submit the document, or a link to your online resource, via a Slack DM or group 
 
 ### Prep
 
+Submit your first draft of your course contract via email and/or a Slack DM to me. Make a copy of the [course contract template](https://docs.google.com/document/d/1r_lSsCOOOsTkdgjfxWKuN0xG0ROB4YbC32SKjd0RfMQ/edit?usp=sharing) and fill it out as specific to your project. Share it with me by the beginning of class on the 25th. _This contract will not be in force until I give you written approval._ Keep in mind that it may take a little back-and-forth to get it right, so after you submit the first draft, keep an eye on the document or your notifications, so we can work out all details over the next week or so. 
+
+Continue work on your project with your team.
+
+
 
 ### In class
 
