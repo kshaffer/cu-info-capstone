@@ -126,7 +126,6 @@ Continue work on your project with your team.
 
 - Team standup
 - Class standup
-- TBA
 - Final course contract drafts
 - Project work time
 
