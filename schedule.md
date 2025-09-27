@@ -137,21 +137,71 @@ Continue work on your project with your team.
 
 ### Prep
 
+Keep your eyes peeled for feedback on your course contract, and respond with updates, as necessary, by the beginning of class on the 2nd.
+
+
+### In class
+
+- Team progress presentations
+- Crash Course: Data Architecture and AWS
+- Project work time
+
+### Follow-up resources
+
+These are not required readings, but resources that may be helpful for you as you move forward on your projects.
+
+- [AWS Tutorial for Beginners](https://www.youtube.com/watch?v=Nzv-tzU-UAw)
+- [Amazon Web Services YouTube Channel](https://www.youtube.com/user/AmazonWebServices)
+- [Getting Started with AWS](https://aws.amazon.com/getting-started/)
+- [Tutorial: Create a web server and an Amazon RDS DB instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/TUT_WebAppWithRDS.html)
+- [Amazon RDS tutorials and sample code](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.html)
+- [Reclaim Hosting](https://www.reclaimhosting.com/)
+- [Reclaim Cloud](https://reclaim.cloud/)
+- [Digital Ocean](https://www.digitalocean.com/)
+- [ShinyApps.io](https://www.shinyapps.io/)
+- [Gradio](https://gradio.app/)
+
+
+
+<br/>
+
+## Week 8: Thursday, October 9
+
+NO CLASS. Continue to work on your project with your team.
+
+
+
+
+<br/>
+
+## Week 9: Thursday, October 16
+
+### Prep
+
+Continue to work on your project with your team. Also, peruse the following resources on incorporating AI into your project.
+
+- [OpenAI Developer Quickstart](https://platform.openai.com/docs/quickstart)
+- [OpenAI Python API Library](https://github.com/openai/openai-python)
+- [Migrate to the Responses API](https://platform.openai.com/docs/guides/migrate-to-responses) (in case you find old tutorials that use the now obsolete chat completions API)
+- [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
+- [Text generation](https://platform.openai.com/docs/guides/text) (useful for chatbots and newsletters/web content)
+- [Structured outputs](https://platform.openai.com/docs/guides/structured-outputs) (for making things like HTML templates for newsletters or web content)
+- [How to create a chatbot with Gradio](https://www.gradio.app/guides/creating-a-chatbot-fast)
+
+_Note that there are a lot of tutorials out there for building apps with AI APIs that are woefully out of date. You may still be able to use them! But be conscious of the date, and don't be afraid to plug one into a tool like ChatGPT and ask it to update the code snippets one by one (safer than all at once) for the latest models and code versions (give it model names like "gpt-5" and dates like "as of October 2025" to minimize getting out of date code). You can also install [Claude Code](https://claudecode.io/) or [OpenAI Codex](https://openai.com/index/openai-codex/) on your local machine (requires a paid subscription), so that it can read, analyze, and modify your code as you go, rather than constantly cutting and pasting between your codebase and the chat interface. Both of those tools work in your terminal. Claude Code integrates well-ish with JetBrains IDEs, and both (I believe) integrate with VS Code._
 
 ### In class
 
 - Team standup
 - Class standup
-- TBA
+- Incorporating AI into your project
 - Project work time
 
 
 
 <br/>
 
-## Week ??: Thursday, October 9
-
-NO CLASS???
+## Week 10: Thursday, October 23
 
 ### Prep
 
@@ -163,7 +213,7 @@ NO CLASS???
 
 <br/>
 
-## Week 8: Thursday, October 16
+## Week 11: Thursday, October 30
 
 ### Prep
 
@@ -175,7 +225,7 @@ NO CLASS???
 
 <br/>
 
-## Week 9: Thursday, October 23
+## Week 12: Thursday, November 6
 
 ### Prep
 
@@ -187,7 +237,7 @@ NO CLASS???
 
 <br/>
 
-## Week 10: Thursday, October 30
+## Week 13: Thursday, November 13
 
 ### Prep
 
@@ -199,7 +249,7 @@ NO CLASS???
 
 <br/>
 
-## Week 11: Thursday, November 6
+## Week 14: Thursday, November 20
 
 ### Prep
 
@@ -211,31 +261,7 @@ NO CLASS???
 
 <br/>
 
-## Week 12: Thursday, November 13
-
-### Prep
-
-
-
-### In class
-
-
-
-<br/>
-
-## Week 13: Thursday, November 20
-
-### Prep
-
-
-
-### In class
-
-
-
-<br/>
-
-## Week 14: Thursday, December 4
+## Week 15: Thursday, December 4
 
 ### Prep
 
